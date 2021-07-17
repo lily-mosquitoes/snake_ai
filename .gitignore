@@ -1,0 +1,6 @@
+# interpreter file
+__pycache__
+*.pyc
+
+# game files
+*_game.txt
