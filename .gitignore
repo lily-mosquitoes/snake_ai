@@ -3,4 +3,4 @@ __pycache__
 *.pyc
 
 # game files
-*_game.txt
+*.json
